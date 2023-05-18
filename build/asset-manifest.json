@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3bbb900b.css",
+    "main.js": "/static/js/main.01325299.js",
+    "static/media/signup-bc.jpg": "/static/media/signup-bc.fcdf4c786372282efc5b.jpg",
+    "static/media/c3.webp": "/static/media/c3.c4f6db186242ed54de8b.webp",
+    "static/media/c5.webp": "/static/media/c5.5d587e8e41250bfdbc5c.webp",
+    "static/media/c1.webp": "/static/media/c1.95156362a4d8c9df87b2.webp",
+    "static/media/c2.webp": "/static/media/c2.ab8ce6afc2bba88931f8.webp",
+    "static/media/c4.webp": "/static/media/c4.dd33745c7dda5c9d2b83.webp",
+    "static/media/tc5.webp": "/static/media/tc5.bef050a86b044d280c3f.webp",
+    "static/media/tc6.webp": "/static/media/tc6.4205f331d19df9a5fdf9.webp",
+    "static/media/tc4.webp": "/static/media/tc4.59565ae5f797c292ce0b.webp",
+    "static/media/tc7.webp": "/static/media/tc7.d6d203fa0cfd629aa944.webp",
+    "static/media/tc3.webp": "/static/media/tc3.80132c0a6bc67ded3825.webp",
+    "static/media/tc8.webp": "/static/media/tc8.9750f9ae9851a385ac18.webp",
+    "static/media/tc2.webp": "/static/media/tc2.4598797f74738a60d326.webp",
+    "static/media/tc1.webp": "/static/media/tc1.4e5f9d8a363278096b8f.webp",
+    "static/media/a1.webp": "/static/media/a1.23eac5d7bcc245601e46.webp",
+    "static/media/a3.webp": "/static/media/a3.bb7cb95deb5e48e6f20f.webp",
+    "static/media/a4.webp": "/static/media/a4.13a6e7085826152e43c7.webp",
+    "static/media/a5.webp": "/static/media/a5.5108268dd1e0cf862ab8.webp",
+    "static/media/a7.webp": "/static/media/a7.36a42dd966e1ee834a43.webp",
+    "static/media/a6.webp": "/static/media/a6.aa51e62e664483503d67.webp",
+    "static/media/a8.webp": "/static/media/a8.c7265235ca08ca56ed21.webp",
+    "static/media/a2.webp": "/static/media/a2.4bf6af7c329ca4b9506f.webp",
+    "static/media/trust_badge_free_shipping.webp": "/static/media/trust_badge_free_shipping.4aba810369c0b0723331.webp",
+    "static/media/trust_badge_india.webp": "/static/media/trust_badge_india.692185fffe3c307f2f68.webp",
+    "index.html": "/index.html",
+    "main.3bbb900b.css.map": "/static/css/main.3bbb900b.css.map",
+    "main.01325299.js.map": "/static/js/main.01325299.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bbb900b.css",
+    "static/js/main.01325299.js"
+  ]
+}
