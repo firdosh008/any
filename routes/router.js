@@ -19,7 +19,7 @@ router.get("/getproducts", async (req, res) => {
 
 //get perticular data of a product
 
-router.get("/getproductone/:id", async (req, res) => {
+router.get("/getproduct/:id", async (req, res) => {
   try {
     const _id = req.params.id;
     //console.log(_id);
