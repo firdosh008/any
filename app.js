@@ -14,7 +14,7 @@ app.use(express.static("build"));
 app.use(express.json());
 app.use(cookieParser(""));
 app.use(cors({
-    origin: ['http://localhost:3000', 'http://example.com'],
+    origin: ['http://localhost:3000', 'https://anymart-backend.vercel.app/'],
     credentials: true
   }));
 app.use(router);
